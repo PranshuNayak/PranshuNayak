@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranshuNayak
 - 👀 I’m interested in mobile app development 
-- 🌱 I’m proficient in React Native , React JS and Node Js
+- 🌱 I’m proficient in React JS , Express Js , MongoDB and React Native
 - 💞️ I’m a MERN developer
 - 📫 Pin me at pranshunayak566@gmail.com
 
