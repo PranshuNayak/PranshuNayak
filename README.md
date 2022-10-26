@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Pranshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranshuNayak&show_icons=true&theme=radical)](https://github.com/PranshuNayak/github-readme-stats)
+[![@PranshuNayak's Holopin board](https://holopin.io/api/user/board?user=pranshunayak)](https://holopin.io/@pranshunayak)
